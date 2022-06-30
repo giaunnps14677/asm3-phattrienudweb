@@ -1,0 +1,14 @@
+.title{
+    text-align: center;
+    font-size: 36px;
+    font-weight: bold;
+}
+.form-login{
+    margin: 5% 0px 5% 0;
+    padding: 5% 15px 5% 15px;
+    box-shadow: 10px 10px 10px 10px #8a888b;
+}
+.bg-welcome{
+    background-color: #0f1130;
+    color: #fff;
+}

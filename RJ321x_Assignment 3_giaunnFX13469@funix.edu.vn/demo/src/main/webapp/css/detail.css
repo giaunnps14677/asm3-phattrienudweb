@@ -1,0 +1,13 @@
+.name{
+    color: #4a4a4a;
+    font-size: 28px;
+}
+.price{
+    color: #fc0d1b;
+    font-size: 28px;
+}
+.btn-primary{
+    background-color: #ee8824;
+    border: none;
+    text-decoration: none;
+}

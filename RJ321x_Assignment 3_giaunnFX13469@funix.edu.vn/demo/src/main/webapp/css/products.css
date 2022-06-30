@@ -1,0 +1,41 @@
+.title{
+    margin-left: 20px;
+}
+.title-pr{
+    color: #fff;
+    font-size: 32px;
+}
+.header{
+    background-color: #222f3c;
+}
+.title-welcome{
+    color: #1c99c7;
+}
+.btn-outline-secondary{
+    background-color: orange;
+}
+.menu{
+    background-color: #293847;
+}
+.navbar a:hover{
+    color: orange;
+}
+.item{
+    border: 1px solid #dddddd;
+    border-radius: 10px;
+    margin: 20px 0px 0px 20px;
+    padding-left: 20px;
+}
+.title-type-item{
+    color: #757373;
+    text-transform: uppercase;
+    font-size: 28px;
+}
+.title-name-item{
+    color: #546578;
+    font-size: 20px;
+}
+.price{
+    color: #af2914;
+    font-size: 20px;
+}

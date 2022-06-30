@@ -1,0 +1,26 @@
+.form-register{
+    border-radius: 10px;
+    box-shadow: 5px 5px 5px 5px #3994da;
+}
+.title{
+    font-size: 28px;
+    font-weight: bold;
+    text-align: center;
+    margin: 30px 0px;
+    
+}
+.form-register input{
+    border: none;
+}
+.btn-register{
+    margin: 30px 0px;
+    text-align: center;
+}
+.btn-register button{
+    border-radius: 5px;
+    border: none;
+    padding: 10px 20px;
+    color: #fff;
+    background: linear-gradient(to right, #945dba 0%, #3994da 100%);
+    
+}
